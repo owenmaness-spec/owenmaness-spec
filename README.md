@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p>Hey I'm Owen, when I do awesome things like save the world I'll put it on here, but until then this is gonna be pretty bare bones</p>
+
 <!--
 **owenmaness-spec/owenmaness-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
